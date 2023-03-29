@@ -320,6 +320,9 @@ nav ul li a {
         justify-content: center; 
         margin: 10px 0;
     }
+    nav ul li:last-child{
+        display: none;
+    }
     nav ul li a { 
         color: white; 
         font-weight: 500; 
